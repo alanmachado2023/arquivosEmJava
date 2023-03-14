@@ -1,0 +1,5 @@
+Alan Machado;pessoa1@gmail.com;50
+Marcos Tadeu;pessoa2@gmail.com;25
+Maria Jesus;pessoa3@gmail.com;40
+
+Joao Paulo;pessoa4@gmail.com;15
