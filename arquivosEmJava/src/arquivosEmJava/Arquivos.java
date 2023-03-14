@@ -34,7 +34,7 @@ public class Arquivos {
 		
 				
 		
-		File arquivo = new File("P:\\Workspace\\Eclipese_Java\\arquivosEmJava\\src\\Arquivo.csv");  //atribui um local para o arquivo ser gerado | basta mudar o formato do arquivo
+		File arquivo = new File("P:\\Git-Repository\\arquivosEmJava\\arquivosEmJava\\src\\Arquivo.txt");  //atribui um local para o arquivo ser gerado | basta mudar o formato do arquivo
 		
 		if (!arquivo.exists()) {
 			arquivo.createNewFile();
