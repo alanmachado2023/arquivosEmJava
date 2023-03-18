@@ -17,7 +17,7 @@ public class ApachePoi2 {
 	public static void main(String[] args) throws IOException {
 		
 		
-		FileInputStream entrada = new FileInputStream(new File("P:\\Git-Repository\\arquivosEmJava\\arquivosEmJava\\src\\arquivosEmJava\\arquivo_excel.xls"));
+		FileInputStream entrada = new FileInputStream(new File("P:\\Git-Repository2023\\arquivosEmJava\\arquivosEmJava\\src\\arquivo_excel.xls"));
 		
 		HSSFWorkbook hssfWorkbook = new HSSFWorkbook(entrada);  //prepara a entrada para ler o arquivo xls
 		HSSFSheet planilha = hssfWorkbook.getSheetAt(0);   //SheetAt pega a primeira planilha do arquivo excel
